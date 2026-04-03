@@ -13,12 +13,12 @@ Steps Followed :
   
 Key Questions :
 
-    Monthly Sales and Orders : Presented a sinngle chart comparing sales and orders by month.
+    Monthly Sales and Orders : Presented a single chart comparing sales and orders by month.
     Highest Sales and Orders : Identified the month with the highest sales and orders in 2022.
     Gender-based Purchases : Determined whether men or women made more purchases in 2022.
     Order Status : Listed the different order status observed in 2022.
     Top Contributing states : Identified the top 5 states.
-    Age and Gender Analysis : Explored the repationship between Age and Gender based on sales.
+    Age and Gender Analysis : Explored the relationship between age and gender based on sales.
 
 Insight of the Dahboard :
 
