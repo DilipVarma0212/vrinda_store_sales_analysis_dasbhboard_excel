@@ -3,7 +3,7 @@
 This project focuses on analyzing sales data of Vrinda Store, an online clothing retailer. The dataset contains order-level information for the year 2022.
 
 
-## Project Overview
+## Overview
 
 The main objective of this project is to create an interactive Excel dashboard and generate insights that help improve business performance in 2023.
 
@@ -30,6 +30,7 @@ Sales Data: The primary dataset used for this analysis is the "vrinda-store-data
 - Slicers
 - Data Cleaning Techniques
 - Excel Functions (SUM, COUNT, VLOOKUP)
+- GitHub
 
 
 ## Data Cleaning Process
@@ -43,12 +44,14 @@ Sales Data: The primary dataset used for this analysis is the "vrinda-store-data
 
 ## Dashboard Features
 
-- Monthly Sales vs Orders Comparison
+- Monthly Orders vs Sales Comparison
 - Sales by Gender
 - Sales by Age Group
 - Top 5 States by Sales
 - Sales by Channel
 - Order Status Distribution
+  
+<img width="1360" height="581" alt="VrindaExcelReportImage" src="https://github.com/user-attachments/assets/645dda98-8f1f-4dcf-8146-7ecc39729469" />
 
 
 ## Results
@@ -68,7 +71,7 @@ Sales Data: The primary dataset used for this analysis is the "vrinda-store-data
 - Improve strategies for low-performing regions.
 
 
-## Project Outcome
+## Outcome
 
 - Developed an interactive dashboard for easy data analysis.
 - Generated meaningful insights for decision-making.
