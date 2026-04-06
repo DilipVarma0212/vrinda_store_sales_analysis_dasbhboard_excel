@@ -1,5 +1,6 @@
 # Vrinda Store Sales Analysis Dashboard
-This project focuses on analyzing sales data of Vrinda Store, an online clothing retailer. The dataset contains order-level information for the year 2022.
+
+*This project focuses on analyzing sales data of Vrinda Store, an online clothing retailer. The dataset contains order-level information for the year 2022.*
 
 ---
 
