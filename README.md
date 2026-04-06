@@ -1,5 +1,4 @@
 # Vrinda Store Sales Analysis Dashboard
-
 This project focuses on analyzing sales data of Vrinda Store, an online clothing retailer. The dataset contains order-level information for the year 2022.
 
 ---
@@ -7,7 +6,7 @@ This project focuses on analyzing sales data of Vrinda Store, an online clothing
 
 ## Table of contents
 - [Overview](#overview)
-- [Objectives](#objectives)
+- [Business Problem](#business-problem)
 - [Data Source](#data-source)
 - [Tools](#tools)
 - [Data Cleaning Process](#data-cleaning-process)
@@ -22,19 +21,14 @@ This project focuses on analyzing sales data of Vrinda Store, an online clothing
 
 
 ### Overview
-
 The main objective of this project is to create an interactive Excel dashboard and generate insights that help improve business performance in 2023.
 
 ---
 
 
-### Objectives
+### Business Problem
+Vrinda Store wants to analyze its 2022 sales data to understand customer behavior, identify top-performing regions and channels, and uncover trends in order patterns. The goal is to generate actionable insights that can help improve sales and business strategy in 2023.
 
-- Analyze yearly sales performance
-- Identify customer behavior and buying patterns
-- Find top-performing states and sales channels
-- Understand product and demographic trends
-- Provide actionable business insights
 ---
 
 
