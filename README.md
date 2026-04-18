@@ -22,12 +22,14 @@
 
 
 ### Overview
+
 The main objective of this project is to create an interactive Excel dashboard and generate insights that help improve business performance in 2023.
 
 ---
 
 
 ### Business Problem
+
 Vrinda Store wants to analyze its 2022 sales data to understand customer behavior, identify top-performing regions and channels, and uncover trends in order patterns. The goal is to generate actionable insights that can help improve sales and business strategy in 2023.
 
 ---
